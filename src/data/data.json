@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "label": "Revenue",
+      "value": {
+        "amount": 2.047,
+        "currency": "USD"
+      },
+      "percentage": {
+        "value": 10,
+        "movement": "decrement"
+      }
+    },
+    {
+      "id": 2,
+      "label": "Orders",
+      "value": 356,
+      "percentage": {
+        "value": 20,
+        "movement": "decrement"
+      }
+    },
+    {
+      "id": 3,
+      "label": "Dine-in",
+      "value": 220,
+      "percentage": {
+        "value": 10,
+        "movement": "increment"
+      }
+    },
+    {
+      "id": 4,
+      "label": "Takeaway",
+      "value": 135,
+      "percentage": {
+        "value": 5,
+        "movement": "increment"
+      }
+    }
+  ]
+  
